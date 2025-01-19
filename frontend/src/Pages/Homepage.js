@@ -37,13 +37,13 @@ function Homepage() {
       >
         <Text fontSize="4xl" fontFamily="Work Sans">
           <Text as="span" color="green" fontWeight="bold">
-            S
+            R
           </Text>
           <Text as="span" color="orange" fontWeight="bold">
-            ii
+            e
           </Text>
           <Text as="span" color="green" fontWeight="bold">
-            nqee Chat
+            al Chat
           </Text>
         </Text>
       </Box>

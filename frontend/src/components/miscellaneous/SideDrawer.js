@@ -148,13 +148,13 @@ function SideDrawer() {
         </Tooltip>
         <Text fontSize="4xl" fontFamily="Work Sans">
           <Text as="span" color="green" fontWeight="bold">
-            S
+            R
           </Text>
           <Text as="span" color="orange" fontWeight="bold">
-            ii
+            ea
           </Text>
           <Text as="span" color="green" fontWeight="bold">
-            nqee Chat
+            l Chat
           </Text>
         </Text>
         <div>
